@@ -22,23 +22,34 @@
 (1) Pull Request를 받은 원본 저장소 관리자는 코드 변경 내역을 확인하고 Merge 여부를 결정 <br/>
 (2) Merge를 했다면, 이후 동기화 및 branch 삭제 <br/>
 
-# master로 이동
+## master로 이동
 
 git checkout master
 
-# upstream 동기화
+## upstream 동기화
 
 git pull [원본 저장소] [브랜치명]
 git pull upstream master
 
-# origin에 반영
+## origin에 반영
 
 git push origin master
 
-# 로컬 브랜치 삭제
+## 로컬 브랜치 삭제
 
 git branch -d develop
 
-# 원격 브랜치 저장소도 삭제하고 싶은 경우
+## 원격 브랜치 저장소도 삭제하고 싶은 경우
 
 git push origin --delete [브랜치명]
+
+## commit 메세지 작성법 (커밋 메세지 컨벤션)
+
+feat : 새로운 기능과 관련된 것을 의미한다. <br/>
+fix : 오류와 같은 것을 수정했을 때 사용한다. <br/>
+test : test를 추가하거나 수정했을 때를 의미한다. <br/>
+docs : 문서와 관련하여 수정한 부분이 있을 때 사용한다. <br/>
+style : 코드의 변화와 관련없는 포맷이나 세미콜론을 놓친 것과 같은 부분들을 의미한다. <br/>
+refactor : 코드의 리팩토링을 의미한다. <br/>
+build : 빌드 관련 파일 수정에 대한 커밋 <br/>
+chore : 패키지 매니저 설정 등 여러가지 production code와 무관한 부분 들을 의미한다. <br/>

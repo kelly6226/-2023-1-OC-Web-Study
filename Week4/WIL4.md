@@ -12,13 +12,13 @@
 
       → Tag를 열어주면 닫아야함 BUT 가끔 하나짜리도 있음
 
-      ex) <input placeholder=”안녕”/>
+      ex. <input placeholder=”안녕”/>
 
-      ex) <br/> 줄바꿈을 나타내는 tag
+      ex. <br/> 줄바꿈을 나타내는 tag
 
    2. attribute : Tag가 가지는 속성
 
-      ex) <h1 style=”color: red”> 여러분 <h1/>
+      ex. <h1 style=”color: red”> 여러분 <h1/>
 
    c. 기본 구조는 4가지
 
@@ -32,7 +32,7 @@
 
    → 컴퓨터에 주는 정보들이 적혀있는 곳이 head (문서는 이런 속성을 가지고 있어!)
 
-   ex) <meta>
+   ex. <meta>
 
    (3) body
 
@@ -44,16 +44,15 @@
 
    → html 문서라는 것을 <html> </html>로 감싸면서 나타냄
 
-   ### 2. 다양한 Tag들 만나보기
-
+### 2. 다양한 Tag들 만나보기
    - <h1> </h1> , <h2> </h2> : 강조할때 또는 제목을 작성할때 사용
    - <p> </p> : 하나의 문단임을 나타내줌
    - <input> : 사용자로부터 입력을 받게 하는 태그
 
 ### 3. 크롬에서 개발자 도구 사용하기
-
 → f11를 누르면 나옴
 
+   
 ## <웹 기초 스터디 4주차 과제\_빙고 만들기>
 
 1. <ul> : unordered list, 순서가 없는 list
@@ -122,4 +121,5 @@
       ```
 
 → **최종 결과**
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6c2235cd-a155-4d37-ae7f-3282ca6492fc/Untitled.png)
+![image](https://user-images.githubusercontent.com/110219986/230122050-d74bd79f-e7d4-46e9-88d0-0bc0d527b307.png)
+

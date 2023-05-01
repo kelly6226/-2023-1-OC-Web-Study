@@ -28,7 +28,7 @@
 
       → HTML 요소는 시작 태그(start tag)와 종료 태그(end tag) 그리고 태그 사이에 위치한 content로 구성
 
-      ![img](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9480a121-db3a-4808-9ea8-a969bd4785c0/Untitled.png)
+      ![img](https://file.notion.so/f/s/9480a121-db3a-4808-9ea8-a969bd4785c0/Untitled.png?id=41490a76-6ec6-4056-a47e-b2e04e901de1&table=block&spaceId=e8de49d9-29cd-4578-abb7-f03bed67e2c5&expirationTimestamp=1683028177391&signature=8JJScwJadcL-aNsoEEDro-7sS6V-d1xMcEXIXYi7FQI&downloadName=Untitled.png)
 
       → 요소는 중첩 가능 (다른 요소를 포함 가능) : 부자관계로 정보를 구조화하는 것
 

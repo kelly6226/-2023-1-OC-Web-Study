@@ -1,3 +1,8 @@
+notion에 정리한 사이트 링크
+1. HTML5 정리 부분 : https://brassy-professor-215.notion.site/5-HTML-0b4878a821b0469bb0301dc23e601e4e
+2. CSS5 정리 부분 : https://brassy-professor-215.notion.site/5-CSS-c9b82e95d6b546c6a071d1abd2ad4327
+
+
 # HTML5 정리
 
 ## 1. 2 HTML5 Introduction & Syntax (HTML5 기본 문법)

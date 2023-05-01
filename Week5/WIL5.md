@@ -23,11 +23,12 @@
    ```
 
 1. HTML의 기본 문법
+
    1. 요소 (Element)
 
       → HTML 요소는 시작 태그(start tag)와 종료 태그(end tag) 그리고 태그 사이에 위치한 content로 구성
 
-      ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9480a121-db3a-4808-9ea8-a969bd4785c0/Untitled.png)
+      ![img](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9480a121-db3a-4808-9ea8-a969bd4785c0/Untitled.png)
 
       → 요소는 중첩 가능 (다른 요소를 포함 가능) : 부자관계로 정보를 구조화하는 것
 
@@ -41,7 +42,7 @@
 
       → 시작 태그에 위치해야하며, 이름과 값의 쌍을 이룸
 
-      ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/23d7684c-aef5-4098-bfa6-b76b6e6349e2/Untitled.png)
+      ![img](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/23d7684c-aef5-4098-bfa6-b76b6e6349e2/Untitled.png)
 
 ---
 
@@ -57,7 +58,7 @@
 
       → ex) div, span 등
 
-      ![원하는 위치에 따른 Semantic Tag 사용하기](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c04b03bb-ddf9-4501-af47-e5d8c09e37aa/Untitled.png)
+      ![img](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c04b03bb-ddf9-4501-af47-e5d8c09e37aa/Untitled.png)
 
       원하는 위치에 따른 Semantic Tag 사용하기
 
@@ -167,6 +168,7 @@
    → 제목을 나타낼 때 사용하는 태그 (h1~h6 까지 존재)
 
 2. 글자 형태 태그
+
    1. b : bold 체를 지정
 
       ```html
@@ -196,6 +198,7 @@
       ```html
       <p>My favorite color is <del>blue</del> red.</p>
       ```
+
 3. 본문 태그
    1. p : 단락 (paragraphs)를 지정
    2. br : 강제 개행을 지정

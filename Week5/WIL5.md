@@ -28,7 +28,7 @@
 
       → HTML 요소는 시작 태그(start tag)와 종료 태그(end tag) 그리고 태그 사이에 위치한 content로 구성
 
-   ![](<imgs/![](2023-05-01-20-56-07.png).png>)
+   ![](imgs/2023-05-01-20-56-09.png)
    → 요소는 중첩 가능 (다른 요소를 포함 가능) : 부자관계로 정보를 구조화하는 것
 
    → 빈 요소 (Self-Closing element) : attribute 만을 가질 수 有 (content가 X)
